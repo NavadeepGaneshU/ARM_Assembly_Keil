@@ -1,5 +1,6 @@
 --cpu=Cortex-M4.fp.sp
 ".\objects\bubble_sort.o"
+".\objects\bubble_sort_1.o"
 ".\objects\retarget_io.o"
 ".\objects\startup_stm32f407xx.o"
 ".\objects\system_stm32f4xx.o"
